@@ -41,6 +41,7 @@ ld test.o -o test
 | ------------ | ------------------------------------------ |
 | `Hello_World.asm`  | Prints "Hello World!"                     |
 | `Echo_Inputs.asm`   | Reads input and echoes it back to stdout   |
+| `String Length Calculator.asm`       | Reads input, computes its length, and prints it |
 
 ---
 
